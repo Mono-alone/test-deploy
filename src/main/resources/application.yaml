@@ -1,3 +1,6 @@
 spring:
   application:
     name: test-deploy
+  threads:
+    virtual:
+      enabled: true
